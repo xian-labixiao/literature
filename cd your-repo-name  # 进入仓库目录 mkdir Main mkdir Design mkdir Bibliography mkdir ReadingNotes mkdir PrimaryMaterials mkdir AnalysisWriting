@@ -1,0 +1,7 @@
+cd your-repo-name  # 进入仓库目录
+mkdir Main
+mkdir Design
+mkdir Bibliography
+mkdir ReadingNotes
+mkdir PrimaryMaterials
+mkdir AnalysisWriting
